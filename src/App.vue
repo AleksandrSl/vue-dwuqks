@@ -3,7 +3,7 @@
     <img alt="Vue logo" src="https://vuejs.org/images/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>sssssssslllжжжжллллддддддддд
-</template>ььддд
+</template>ььддддддддд
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
